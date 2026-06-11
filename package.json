@@ -1,0 +1,13 @@
+{
+  "name": "ci-demo",
+  "version": "1.0.0",
+  "description": "CI/CD Pipeline Demo",
+  "main": "app.js",
+  "scripts": {
+    "lint": "echo Lint Passed",
+    "test": "echo Test Passed",
+    "build": "echo Build Successful"
+  },
+  "author": "",
+  "license": "ISC"
+}
